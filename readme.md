@@ -4,7 +4,7 @@ A Slack Bot Starter Template
 <p align="center">by very very spaceship</p>
 
 <p align="center">
-<img src="./.github/cover.png" width="85%" />
+<img src="./.github/cover.gif" width="85%" />
 </p>
 
 ### Environment Variables
